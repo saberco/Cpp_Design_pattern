@@ -46,6 +46,11 @@
         "typeinfo": "cpp",
         "iostream": "cpp",
         "mutex": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "ctime": "cpp",
+        "condition_variable": "cpp",
+        "map": "cpp",
+        "ratio": "cpp",
+        "thread": "cpp"
     }
 }
